@@ -1,6 +1,7 @@
 # [Welcome to Monun Docs!](https://monun.me/)
 
 [![Production](https://api.netlify.com/api/v1/badges/bb695def-f41e-4507-9767-be3f4044c20a/deploy-status)](https://app.netlify.com/sites/monun-docs/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmonun-docs%2Fmonun-docs.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmonun-docs%2Fmonun-docs?ref=badge_shield)
 
 [각별 / monun](https://github.com/monun) 레포지토리를 사용하는 분들을 위해 제작한 사람들이 자주 묻는 질문 및 플러그인 & 라이브러리 적용 설명법 모음 문서입니다.
 
@@ -51,3 +52,7 @@ Twitter: [@monundocs](https://twitter.com/monundocs)
 ---
 
 이 프로젝트는 monun 본인이 원하지 않을 시 본인 요청에 따라 삭제 될 수 있습니다.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmonun-docs%2Fmonun-docs.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmonun-docs%2Fmonun-docs?ref=badge_large)
